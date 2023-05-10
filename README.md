@@ -6,8 +6,9 @@ https://www.youtube.com/watch?v=yTnYqrmb_wM&pp=ygUXdHAtbGluayB0bC13bjcyMm4gc2V0d
 First follow this youtube video and the video description has commands.
 By following that command you can enable monitor mode.
 
-commands
+commands:
 sudo apt update
+
 sudo apt install bc
 sudo rmmod r8188eu.ko
 git clone https://github.com/aircrack-ng/rtl8188eus
